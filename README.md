@@ -62,15 +62,15 @@ Every validation run transforms raw investment data into quality-assured intelli
 
 | Block | Content |
 |-------|---------|
-| **Customer Segments** | Asset Managers, Sovereign Wealth Funds, Fund Administrators, Investment Operations Teams, Compliance Officers |
-| **Value Propositions** | Real-time Data Quality Detection, Control Risk Identification, Stakeholder Explanations, Audit Documentation, 80% Faster Review |
-| **Channels** | Web Application (SaaS), API Integration, Email Notifications, PDF Reports |
-| **Customer Relationships** | Dashboard Access, Automated Alerts, Quarterly Review Meetings, Exception Escalation |
-| **Revenue Streams** | Annual SaaS Subscription, Per-Record Validation Fees, Professional Services, Enterprise Licensing |
-| **Key Resources** | Validation Rule Engine, Investment Data Models, Compliance Knowledge Base, Operations Team |
-| **Key Activities** | Data Validation, Control Risk Detection, Stakeholder Communication, Audit Documentation |
-| **Key Partners** | Fund Administrators, Custodian Banks, Prime Brokers, Legal Counsel, External Auditors, Regulators |
-| **Cost Structure** | Platform Development, Cloud Infrastructure, Team Salaries, Compliance & Legal, Customer Success |
+| **Key Partners** | Fund administrators, Custodians, Auditors, Cloud / LLM providers, System integrators, Regulatory advisors |
+| **Key Activities** | Data ingestion, Cross-sheet validation, AI decision memos, Stakeholder explanations, Rule maintenance |
+| **Key Resources** | Validation rule engine, LLM reasoning layer, Data-quality taxonomy, Audit-log repository |
+| **Value Propositions** | Faster data validation, Fewer reporting errors, Stakeholder-specific explanations, Audit-ready evidence, Lower manual QA effort, Bias-aware AI decisions |
+| **Customer Relationships** | Enterprise onboarding, Self-service dashboards, Governance reviews, Rule-library support |
+| **Channels** | Direct enterprise sales, Ops communities, SI partnerships, Cloud marketplaces, API partners |
+| **Customer Segments** | Investment operations, Data governance teams, Fund operations, Compliance teams, Asset managers, Sovereign wealth funds, Private equity firms, Real estate funds, Fund administrators |
+| **Cost Structure** | Cloud / LLM usage, Product development, Cybersecurity & compliance, Implementation support, Customer success & sales |
+| **Revenue Streams** | Enterprise SaaS subscription, Premium governance / audit modules, API usage fees, Implementation services, Custom rule-library configuration |
 
 ---
 
